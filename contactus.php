@@ -65,21 +65,39 @@ text-align:center;
 
 <br><br><br>
 
-<p>If you have any problems with our products or website, or just wish to contact us then please feel free.</p>
+<p align="center">If you have any problems with our products or website, or just wish to contact us then please feel free.</p>
 
- <table class="contactus" border="0" align="center" "border-spacing: 10px;">
-   <tr class="rowspace">
-     <td>Address:</td>
-	 <td>Prism Games <br>
-	     Unity House <br>
-         Telford Road <br>
-         Northampton <br>
-         NN2 9GT
+  <table class="contactus" border="0" align="center" "border-spacing: 10px;">
+    <tr>
+	  <td style="padding:20px 40px 20px 40px;"><img src ="./miscimages/house.png" width="100px" height="100px"> </td>
+	  <td style="padding:20px 40px 20px 40px;"><img src ="./miscimages/email.png" width="100px" height="100px"> </td>
+	  <td style="padding:20px 40px 20px 40px;"><img src ="./miscimages/phone.png" width="100px" height="100px"> </td>
+	</tr>  
+  
+  </table>
+
+
+  <table class="contactus" border="0" align="center" "border-spacing: 10px;">
+    <tr class="rowspace">
+      <td>Address:</td>
+	  <td>Prism Games <br>
+	      Unity House <br>
+          Telford Road <br>
+          Northampton <br>
+          NN2 9GT
 	</tr> 
+	
+	<tr>
+	  <td><br><td>
+	</tr>
 
 	<tr class="rowspace">
 	  <td>Email Address:</td>
 	  <td>prismgamescontact@gmail.com</td>
+	</tr>
+	
+	<tr>
+	  <td><br><td>
 	</tr>
 	
 	<tr class="rowspace">
@@ -87,6 +105,9 @@ text-align:center;
 	  <td>01604 201 442</td>
 	</tr> 
 	
+	<tr>
+	  <td><br><td>
+	</tr>
  
  </table>
 
